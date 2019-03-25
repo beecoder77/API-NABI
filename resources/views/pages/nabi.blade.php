@@ -9,9 +9,7 @@
 @section('content')
 <div class="box">
   <div class="box-header">
-    <h3 class="box-title">Daftar Data Nabi <button type="button" class="btn btn-default" data-toggle="modal" data-target="#modal-default">
-      Add Data
-    </button></h3>
+    <h3 class="box-title">Daftar Data Nabi</h3>
   </div>
   <!-- /.box-header -->
   <div class="box-body">
