@@ -53,7 +53,7 @@
 </div>
 <!-- /.box -->
 </div>
-
+<!--
 <div class="modal fade" id="modal-default">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -81,9 +81,9 @@
         <button type="submit" class="btn btn-primary">Save changes</button>
       </form>
       </div>
-    </div>
+    </div> -->
     <!-- /.modal-content -->
-  </div>
+  <!-- </div> -->
   <!-- /.modal-dialog -->
 </div>
 @stop
